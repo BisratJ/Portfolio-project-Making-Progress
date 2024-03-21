@@ -1,6 +1,4 @@
-**MERN Stack Social App**
-
-**Building a Responsive Reality**
+**MERN Stack Social App : Building a Responsive Reality**
 
 
 
