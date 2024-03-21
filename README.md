@@ -1,6 +1,8 @@
-**MERN Stack Social App: Building a Responsive Reality**
+**MERN Stack Social App
+Building a Responsive Reality**
 
 **A Responsive Social App Odyssey**
+
 Calling all social butterflies and coding warriors! Buckle up for a thrilling journey as I embark on building a full-stack responsive MERN app – a social haven destined to be the crown jewel of my ALX final portfolio project.
 
 
